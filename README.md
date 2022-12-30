@@ -4,24 +4,30 @@ Hi, I am **Harold Villanueva**, a **Computer Science student** 🚀 at [Universi
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**Talking about Personal Stuffs:**
+- **Talking about Personal Stuffs:**
 
-- 🤔 My interests are Quantum Computing, Classical/Quantum Cryptography, Natural Language Processing/Understanding, Computer Vision, Reinforcement Learning, etc....
-- 💼 I am pursuing a degree in Computer Science.
-- 💬 Ask me about anything, I'm happy to help.
+	- 🤔 My interests are Quantum Computing, Classical/Quantum Cryptography, Natural Language Processing/Understanding, Computer Vision, Reinforcement Learning, etc....
+	- 💼 I am pursuing a degree in Computer Science.
+	- 💬 Ask me about anything, I'm happy to help.
 
-- **Competitive Programming**
-	- C & C++ ❤️
-	- Python
-  - Some C#
-	- Some Java
+<h2 align="center">Competitive Programming :computer:</h2>
+
+<p align="center">
+
+  <a>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  </a>
+
 
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
 	- React with Redux :electron:
-  - Express
-  - NodeJS  
+	- Express
+	- NodeJS  
 
 - **Shell Scripting**
 
