@@ -9,6 +9,8 @@ Hi, I am **Harold Villanueva**, a **Computer Science student** 🚀 at [Universi
 	- 🤔 My interests are Quantum Computing, Classical/Quantum Cryptography, Natural Language Processing/Understanding, Computer Vision, Reinforcement Learning, etc....
 	- 💼 I am pursuing a degree in Computer Science.
 	- 💬 Ask me about anything, I'm happy to help.
+	- While Coding, Listening Music and developing useful code.⭐️
+	- Just loved to Explore new Tech Stacks.💻
 	- My personal email is harrylex8@gmail.com.
 	- My institutional email is harold.villanueva@ucsp.edu.pe 
 
@@ -20,6 +22,20 @@ Hi, I am **Harold Villanueva**, a **Computer Science student** 🚀 at [Universi
   <a href="https://www.linkedin.com/in/harold-alejandro-villanueva-borda-644a63210/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Harold Alejandro Villanueva Borda's LinkedIn Profile" height="30" width="30">
   </a>
+	
+## Technologies :fire🔥🔥:
+- Quantum Computing
+- Data Analysis with **Python**.
+- Data Science.
+- Python.
+- Machine Learning
+- Deep Learning
+	
+## Competitive Programming :computer:
+- C and C++ ❤️
+- Python
+- Some Java
+- Some C#
 
 <h2 align="center">Competitive Programming :computer:</h2>
 <p align="center">
