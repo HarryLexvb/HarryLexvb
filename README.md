@@ -60,6 +60,15 @@ Hi, I am **Harold Villanueva**, a **Computer Science student** 🚀 at [Universi
 
   </a>
 
+<h2 align="center">Tools :toolbox:</h2>
+<p align="center">
+  <a>
+<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><a href="https://github.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
+<code><a href="https://www.jetbrains.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></a></code>
+  </a>	
+	
 <h2 align="center">Shell Scripting :computer:</h2>
 <p align="center">
   <a>
