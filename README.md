@@ -10,7 +10,7 @@ Hi, I am **Harold Villanueva**, a **Computer Science student** 🚀 at [Universi
 	- 💼 I am pursuing a degree in Computer Science.
 	- 💬 Ask me about anything, I'm happy to help.
 
-<br> <br> <br>
+<br> <br> <br> <br> <br>
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
