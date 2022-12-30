@@ -12,7 +12,7 @@ Hi, I am **Harold Villanueva**, a **Computer Science student** 🚀 at [Universi
 	- My personal email is harrylex8@gmail.com.
 	- My institutional email is harold.villanueva@ucsp.edu.pe 
 
-<br> <br> <br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br> <br>
 
 <h2 align="center">You can reach me at :alien:</h2>
 <p align="center">
@@ -23,7 +23,7 @@ Hi, I am **Harold Villanueva**, a **Computer Science student** 🚀 at [Universi
 
 <h2 align="center">Competitive Programming :computer:</h2>
 <p align="center">
-  <a href="https://samujjwaal.tech/"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" align="right" height="200" />
+  <a>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
