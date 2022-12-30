@@ -10,8 +10,9 @@ Hi, I am **Harold Villanueva**, a **Computer Science student** 🚀 at [Universi
 	- 💼 I am pursuing a degree in Computer Science.
 	- 💬 Ask me about anything, I'm happy to help.
 
-<h2 align="center">You can reach me at :alien:</h2>
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
+<h2 align="center">You can reach me at :alien:</h2>
 <p align="center">
 
   <a href="https://www.linkedin.com/in/harold-alejandro-villanueva-borda-644a63210/">
