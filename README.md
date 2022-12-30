@@ -14,7 +14,7 @@ Hi, I am **Harold Villanueva**, a **Computer Science student** 🚀 at [Universi
 	- My personal email is harrylex8@gmail.com.
 	- My institutional email is harold.villanueva@ucsp.edu.pe 
 
-<br> <br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br>
 
 <h2 align="center">You can reach me at :alien:</h2>
 <p align="center">
@@ -36,24 +36,26 @@ Hi, I am **Harold Villanueva**, a **Computer Science student** 🚀 at [Universi
 - Python
 - Some Java
 - Some C#
+	
+## Web Development :desktop_computer:
+- HTML, CSS and Javascript :white_check_mark:
+- Bootstrap
+- React with Redux :electron:
+- Express
+- NodeJS  
 
-<h2 align="center">Competitive Programming :computer:</h2>
+<h2 align="center">Languages :black_heart:</h2>
 <p align="center">
   <a>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  </a>
+    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-<h2 align="center">Web Development :desktop_computer:</h2>
-<p align="center">
-  <a>
-   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
   </a>
 
 <h2 align="center">Shell Scripting :computer:</h2>
