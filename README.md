@@ -10,6 +10,14 @@ Hi, I am **Harold Villanueva**, a **Computer Science student** 🚀 at [Universi
 	- 💼 I am pursuing a degree in Computer Science.
 	- 💬 Ask me about anything, I'm happy to help.
 
+<h2 align="center">You can reach me at :alien:</h2>
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/harold-alejandro-villanueva-borda-644a63210/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Harold Alejandro Villanueva Borda's LinkedIn Profile" height="30" width="30">
+  </a>
+
 <h2 align="center">Competitive Programming :computer:</h2>
 <p align="center">
   <a>
@@ -19,13 +27,15 @@ Hi, I am **Harold Villanueva**, a **Computer Science student** 🚀 at [Universi
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   </a>
 
-
-- **Web Development**
-	- HTML, CSS and Javascript :white_check_mark:
-	- Bootstrap
-	- React with Redux :electron:
-	- Express
-	- NodeJS  
+<h2 align="center">Web Development :desktop_computer:</h2>
+<p align="center">
+  <a>
+   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Javascript/Javascript.png"></code>
+   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+  </a>
 
 <h2 align="center">Shell Scripting :computer:</h2>
 <p align="center">
@@ -34,24 +44,6 @@ Hi, I am **Harold Villanueva**, a **Computer Science student** 🚀 at [Universi
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
   </a>
-
- <br> <br>
-<h2 align="center">You can reach me at :alien:</h2>
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/harold-alejandro-villanueva-borda-644a63210/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Harold Alejandro Villanueva Borda's LinkedIn Profile" height="30" width="30">
-  </a>
-
-<h2 align="center">My stack :man_technologist:</h2>
-
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
-<p align="center">
-  <a href="https://stackshare.io/anhello/my-personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
-  </a>
-</p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
