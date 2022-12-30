@@ -49,6 +49,7 @@ Hi, I am **Harold Villanueva**, a **Computer Science student** 🚀 at [Universi
   <a>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+    <code><img height="30" src="https://cdn.svgporn.com/logos/java.svg"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
@@ -63,7 +64,10 @@ Hi, I am **Harold Villanueva**, a **Computer Science student** 🚀 at [Universi
 <h2 align="center">Tools :toolbox:</h2>
 <p align="center">
   <a>
+<code><a href="https://www.jetbrains.com/es-es/clion/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg"></a></code>
+<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><a href="https://www.sublimetext.com/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"></a></code>
 <code><a href="https://github.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
 <code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 <code><a href="https://www.jetbrains.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></a></code>
