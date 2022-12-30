@@ -9,8 +9,10 @@ Hi, I am **Harold Villanueva**, a **Computer Science student** 🚀 at [Universi
 	- 🤔 My interests are Quantum Computing, Classical/Quantum Cryptography, Natural Language Processing/Understanding, Computer Vision, Reinforcement Learning, etc....
 	- 💼 I am pursuing a degree in Computer Science.
 	- 💬 Ask me about anything, I'm happy to help.
+	- My personal email is harrylex8@gmail.com.
+	- My institutional email is harold.villanueva@ucsp.edu pe 
 
-<br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br> <br> <br>
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
