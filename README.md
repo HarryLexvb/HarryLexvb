@@ -1,16 +1,28 @@
+<!-- HEADER BANNER — uses readme-typing-svg which is reliably hosted -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harold%20Villanueva&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Junior%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Automation%20Engineer&descAlignY=55&descSize=16" width="100%"/>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Harold+Villanueva+%F0%9F%91%8B" alt="Harold Villanueva" />
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;Python+%7C+Web+Scraping+%7C+Automation;AI-Assisted+Development+with+Claude+API;Machine+Learning+%26+Computer+Vision;Always+learning+new+technologies+%F0%9F%92%BB)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6AD3F7&center=true&vCenter=true&random=false&width=700&height=40&lines=Junior+Full+Stack+Developer+%F0%9F%9A%80;Python+%7C+Web+Scraping+%7C+Automation;AI-Assisted+Development+with+Claude+API;Machine+Learning+%26+Computer+Vision;Arch+Linux+%7C+DevOps+%7C+Cloud+Engineer;Always+exploring+new+tech+stacks+%F0%9F%92%BB" alt="Typing SVG" />
 
-<p align="center">
-  <a href="mailto:harrylex8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/harold-alejandro-villanueva-borda-644a63210/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/HarryLexvb"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://harold-villanueva.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=HarryLexvb&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
-</p>
+<br/>
+
+<!-- Social badges -->
+<a href="mailto:harrylex8@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/harold-alejandro-villanueva-borda-644a63210/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/HarryLexvb">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://harold-villanueva.com">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=HarryLexvb&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -18,7 +30,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding GIF" width="360" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="Coding GIF" width="340" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ```python
 class HaroldVillanueva:
@@ -30,6 +42,7 @@ class HaroldVillanueva:
         self.degree     = "B.Sc. Computer Science (Expected: Dec 2025)"
         self.email      = "harrylex8@gmail.com"
         self.website    = "harold-villanueva.com"
+        self.os         = "Arch Linux (btw) 🐧"
 
     @property
     def focus_areas(self):
@@ -40,6 +53,7 @@ class HaroldVillanueva:
             "📊 Machine Learning & Computer Vision",
             "☁️  Cloud & DevOps (AWS · Docker · CI/CD)",
             "🔬 Quantum Computing & Cryptography",
+            "🐧 Linux Power User (Arch · systemd · bash)",
         ]
 
     def current_status(self):
@@ -48,6 +62,7 @@ class HaroldVillanueva:
 
 - 🤔 Interests: **Quantum Computing**, Classical/Quantum Cryptography, NLP, Computer Vision, Reinforcement Learning
 - 💼 Pursuing a **Bachelor's Degree in Computer Science** at UCSP
+- 🐧 Daily driver: **Arch Linux** — comfortable with system configuration, shell scripting, package management & kernel customization
 - 🎓 Teaching Assistant & Programming Instructor — mentoring 50+ students
 - 💬 Ask me about anything, I'm happy to help!
 - 🎵 While coding... always listening to music ⭐️
@@ -66,9 +81,9 @@ class HaroldVillanueva:
 
 **🚀 Junior Full Stack Developer**
 *Ventamon E.I.R.L. · Lima* | `Oct 2025 – Mar 2026`
-- Web scraping for TikTok, SUNAT & OSIPTEL — **95% success rate** using proxy rotation with Selenium, Playwright & Scrapy
+- Web scraping for TikTok, SUNAT & OSIPTEL — **95% success rate** using Selenium, Playwright & Scrapy with proxy rotation
 - Integrated **Fal.ai API & API Mart** for AI image generation, processing 1,000+ monthly requests
-- Built a web-based video editor using JavaScript, React & FFmpeg
+- Built a full web-based video editor with JavaScript, React & FFmpeg
 - Automated workflows with **Claude Code + MCP + AI Agents**, reducing execution time by **70%**
 - ETL pipelines with Pandas & NumPy
 
@@ -94,9 +109,9 @@ class HaroldVillanueva:
 
 **🏥 Developer — Management System**
 *Garden Clinical Analysis Laboratory · Lima* | `2019 – 2020`
-- Complete inventory control system with **SQL Server** relational database
+- Complete inventory control system backed by a relational **SQL Server** database
 - Normalized schemas & optimized queries for clinical supply tracking
-- Desktop operational management interface with automated reports — reduced management time by **60%**
+- Desktop operational interface with automated reports — reduced management time by **60%**
 
 </td>
 </tr>
@@ -200,25 +215,44 @@ class HaroldVillanueva:
 <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
-### ☁️ Cloud, DevOps & Build Tools
+### ☁️ Cloud & DevOps
 <p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
-<img src="https://img.shields.io/badge/Make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-### 🖥️ Operating Systems & Shell
+---
+
+## 🐧 Linux & System Mastery
+
+> I use **Arch Linux** as my daily driver — not just as an OS, but as a mindset of understanding the system from the ground up.
+
 <p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/pacman-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/AUR-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
+
+### 🔧 Build Tools & Compilation
+<p>
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCC-A42E2B?style=for-the-badge&logo=gnu&logoColor=white"/>
+<img src="https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Valgrind-5C2D91?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
 ### 🧰 IDEs & Developer Tools
@@ -229,6 +263,7 @@ class HaroldVillanueva:
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white"/>
 <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white"/>
 </p>
 
@@ -260,7 +295,7 @@ Real-time distributed surveillance system with object detection across multiple 
 ### 🕸️ Scraping Pipeline with Proxy Management
 `Python` `Scrapy` `Playwright` `Selenium` `BeautifulSoup`
 
-Robust data extraction pipeline with automatic residential proxy rotation, dynamic headers, and anti-detection logic. Handles CAPTCHAs and rate limiting. **95% success rate.**
+Robust data extraction pipeline with automatic residential proxy rotation, dynamic headers, and anti-detection logic. Handles CAPTCHAs and rate limiting — **95% success rate.**
 
 </td>
 </tr>
@@ -316,6 +351,12 @@ Complete inventory control system for a clinical laboratory with normalized sche
 
 </div>
 
+### 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarryLexvb&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
+
 ---
 
 ## 🏅 Certifications & Education
@@ -349,18 +390,11 @@ Complete inventory control system for a clinical laboratory with normalized sche
 
 <div align="center">
 
-### 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarryLexvb/HarryLexvb/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarryLexvb/HarryLexvb/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HarryLexvb/HarryLexvb/output/github-contribution-grid-snake.svg" />
-</picture>
+*"Building intelligent systems, one commit at a time."*
 
 <br/>
 
-*"Building intelligent systems, one commit at a time."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+![Footer](https://img.shields.io/badge/Thanks%20for%20visiting!-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Arch](https://img.shields.io/badge/I%20use%20Arch%20btw-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 </div>
