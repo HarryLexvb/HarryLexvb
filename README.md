@@ -55,7 +55,11 @@ class HaroldVillanueva:
 </td>
 <td valign="top" width="40%" align="center">
 
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="320" alt="Coding GIF" style="border-radius:12px"/>
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="320" alt="Coding GIF" />
+
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Developer at work" />
 
 </td>
 </tr>
