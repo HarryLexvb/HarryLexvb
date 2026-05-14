@@ -344,10 +344,20 @@ Complete inventory control system for a clinical laboratory with normalized sche
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HarryLexvb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarryLexvb&theme=tokyonight&hide_border=true" />
+<!-- Streak stats — hosted on demolab (reliable) -->
+<img width="49%" src="https://streak-stats.demolab.com/?user=HarryLexvb&theme=tokyonight&hide_border=true" />
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryLexvb&langs_count=10&theme=tokyonight&hide_border=true&layout=compact" />
+<!-- Trophies — vercel hosted, very reliable -->
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=HarryLexvb&theme=tokyonight&no-frame=true&row=2&column=3" />
+
+</div>
+
+<!-- Profile summary cards — alternative to github-readme-stats -->
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarryLexvb&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarryLexvb&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarryLexvb&theme=tokyonight" />
 
 </div>
 
